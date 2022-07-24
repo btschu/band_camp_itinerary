@@ -722,7 +722,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #schedule .nav-tabs li {
   display: inline-block;
-  margin-bottom: 0;
+  margin: 10px;
 }
 #schedule .nav-tabs a {
   border: none;
