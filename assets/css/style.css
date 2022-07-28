@@ -555,8 +555,7 @@ h1, h2, h3, h4, h5, h6 {
 #schedule .nav-tabs {
   text-align: center;
   margin: auto;
-  display: flex;
-  justify-content: center;
+  display: block;
   border-bottom: 0;
   margin-bottom: 30px;
 }
@@ -565,12 +564,19 @@ h1, h2, h3, h4, h5, h6 {
   margin: 5px;
 }
 #schedule .nav-tabs a {
-  border: none;
-  border-radius: 50px;
+  border: 1px solid black;
+  border-radius: 8px;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
   font-weight: 600;
-  background-color: black;
-  color: #fff;
+  background-color: #fff;
+  box-sizing: border-box;
+  color: black;
   padding: 10px 30px;
+}
+
+#schedule .nav-tabs a:hover {
+  background-color: #C4B454;
+  color: #fff;
 }
 @media (max-width: 991px) {
   #schedule .nav-tabs a {
