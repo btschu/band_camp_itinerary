@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   background: #fff;
-  color: #2f3138;
+  color: black;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
-  color: #0e1b4d;
+  color: black;
 }
 
 .main-page {
@@ -272,7 +272,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
-  color: #060c22;
+  color: black;
 }
 .navbar .dropdown ul a i {
   font-size: 12px;
@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #060c22;
+  color: black;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #C4B454;
@@ -729,7 +729,7 @@ h1, h2, h3, h4, h5, h6 {
   border: none;
   border-radius: 50px;
   font-weight: 600;
-  background-color: #0e1b4d;
+  background-color: black;
   color: #fff;
   padding: 10px 30px;
 }
@@ -750,7 +750,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #schedule .nav-tabs a.active {
   background-color: #C4B454;
-  color: #fff;
+  color: black;
 }
 #schedule .sub-heading {
   text-align: center;
@@ -800,13 +800,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 #schedule .schedule-item h4 span {
   font-style: italic;
-  color: #19328e;
+  color: black;
   font-weight: normal;
   font-size: 16px;
 }
 #schedule .schedule-item p {
   font-style: italic;
-  color: #152b79;
+  color: black;
   margin-bottom: 0;
 }
 
