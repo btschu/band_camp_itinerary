@@ -589,7 +589,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #schedule .nav-tabs a.active {
   background-color: #C4B454;
-  color: black;
+  color: #fff;
 }
 #schedule .sub-heading {
   text-align: center;
