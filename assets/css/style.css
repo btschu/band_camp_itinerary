@@ -574,17 +574,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (max-width: 991px) {
   #schedule .nav-tabs a {
-    padding: 8px;
+    padding: 8px 15px;
   }
 }
 @media (max-width: 767px) {
   #schedule .nav-tabs a {
-    padding: 8px;
+    padding: 8px 15px;
   }
 }
 @media (max-width: 480px) {
   #schedule .nav-tabs a {
-    padding: 8px;
+    padding: 8px 15px;
   }
 }
 #schedule .nav-tabs a.active {
