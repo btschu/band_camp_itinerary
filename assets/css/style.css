@@ -723,7 +723,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #footer {
   background: #101522;
-  padding: 0 0 25px 0;
+  /* padding: 0 0 25px 0; */
   color: #eee;
   font-size: 14px;
 }
@@ -838,7 +838,7 @@ h1, h2, h3, h4, h5, h6 {
 #footer .footer-top .footer-newsletter input[type=submit]:hover {
   background: #C4B454;
 }
-#footer .copyright {
+/* #footer .copyright {
   text-align: center;
   padding-top: 30px;
 }
@@ -846,4 +846,4 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   font-size: 13px;
   color: #ddd;
-}
+} */
